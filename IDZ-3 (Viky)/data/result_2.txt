@@ -1,0 +1,2 @@
+Number of letters: 46
+Number of numbers: 10
